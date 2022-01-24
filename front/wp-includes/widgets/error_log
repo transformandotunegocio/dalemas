@@ -1,0 +1,40 @@
+[09-Sep-2021 01:49:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Sep-2021 04:17:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2021 00:22:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Oct-2021 07:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Nov-2021 10:37:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Nov-2021 02:51:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Dec-2021 08:47:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Dec-2021 05:48:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jan-2022 10:46:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Jan-2022 10:04:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-includes/widgets/class-wp-widget-block.php on line 17

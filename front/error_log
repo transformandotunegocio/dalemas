@@ -1,0 +1,110 @@
+[21-Jul-2021 23:32:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_product_search_form() in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php:202
+Stack trace:
+#0 /home/dalemasdigit/public_html/front/wp-includes/template.php(770): require_once()
+#1 /home/dalemasdigit/public_html/front/wp-includes/template.php(716): load_template('/home/dalemasdi...', true, Array)
+#2 /home/dalemasdigit/public_html/front/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/index.php(7): get_header()
+#4 /home/dalemasdigit/public_html/front/wp-includes/template-loader.php(106): include('/home/dalemasdi...')
+#5 /home/dalemasdigit/public_html/front/wp-blog-header.php(19): require_once('/home/dalemasdi...')
+#6 /home/dalemasdigit/public_html/front/index.php(17): require('/home/dalemasdi...')
+#7 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php on line 202
+[21-Jul-2021 23:32:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_product_search_form() in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php:202
+Stack trace:
+#0 /home/dalemasdigit/public_html/front/wp-includes/template.php(770): require_once()
+#1 /home/dalemasdigit/public_html/front/wp-includes/template.php(716): load_template('/home/dalemasdi...', true, Array)
+#2 /home/dalemasdigit/public_html/front/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/index.php(7): get_header()
+#4 /home/dalemasdigit/public_html/front/wp-includes/template-loader.php(106): include('/home/dalemasdi...')
+#5 /home/dalemasdigit/public_html/front/wp-blog-header.php(19): require_once('/home/dalemasdi...')
+#6 /home/dalemasdigit/public_html/front/index.php(17): require('/home/dalemasdi...')
+#7 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php on line 202
+[21-Jul-2021 23:32:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_product_search_form() in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php:202
+Stack trace:
+#0 /home/dalemasdigit/public_html/front/wp-includes/template.php(770): require_once()
+#1 /home/dalemasdigit/public_html/front/wp-includes/template.php(716): load_template('/home/dalemasdi...', true, Array)
+#2 /home/dalemasdigit/public_html/front/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/index.php(7): get_header()
+#4 /home/dalemasdigit/public_html/front/wp-includes/template-loader.php(106): include('/home/dalemasdi...')
+#5 /home/dalemasdigit/public_html/front/wp-blog-header.php(19): require_once('/home/dalemasdi...')
+#6 /home/dalemasdigit/public_html/front/index.php(17): require('/home/dalemasdi...')
+#7 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php on line 202
+[21-Jul-2021 23:32:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_product_search_form() in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php:202
+Stack trace:
+#0 /home/dalemasdigit/public_html/front/wp-includes/template.php(770): require_once()
+#1 /home/dalemasdigit/public_html/front/wp-includes/template.php(716): load_template('/home/dalemasdi...', true, Array)
+#2 /home/dalemasdigit/public_html/front/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/index.php(7): get_header()
+#4 /home/dalemasdigit/public_html/front/wp-includes/template-loader.php(106): include('/home/dalemasdi...')
+#5 /home/dalemasdigit/public_html/front/wp-blog-header.php(19): require_once('/home/dalemasdi...')
+#6 /home/dalemasdigit/public_html/front/index.php(17): require('/home/dalemasdi...')
+#7 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php on line 202
+[21-Jul-2021 23:32:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_product_search_form() in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php:202
+Stack trace:
+#0 /home/dalemasdigit/public_html/front/wp-includes/template.php(770): require_once()
+#1 /home/dalemasdigit/public_html/front/wp-includes/template.php(716): load_template('/home/dalemasdi...', true, Array)
+#2 /home/dalemasdigit/public_html/front/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/index.php(7): get_header()
+#4 /home/dalemasdigit/public_html/front/wp-includes/template-loader.php(106): include('/home/dalemasdi...')
+#5 /home/dalemasdigit/public_html/front/wp-blog-header.php(19): require_once('/home/dalemasdi...')
+#6 /home/dalemasdigit/public_html/front/index.php(17): require('/home/dalemasdi...')
+#7 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php on line 202
+[21-Jul-2021 23:38:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_product_search_form() in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php:197
+Stack trace:
+#0 /home/dalemasdigit/public_html/front/wp-includes/template.php(770): require_once()
+#1 /home/dalemasdigit/public_html/front/wp-includes/template.php(716): load_template('/home/dalemasdi...', true, Array)
+#2 /home/dalemasdigit/public_html/front/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/index.php(7): get_header()
+#4 /home/dalemasdigit/public_html/front/wp-includes/template-loader.php(106): include('/home/dalemasdi...')
+#5 /home/dalemasdigit/public_html/front/wp-blog-header.php(19): require_once('/home/dalemasdi...')
+#6 /home/dalemasdigit/public_html/front/index.php(17): require('/home/dalemasdi...')
+#7 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php on line 197
+[21-Jul-2021 23:38:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_product_search_form() in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php:197
+Stack trace:
+#0 /home/dalemasdigit/public_html/front/wp-includes/template.php(770): require_once()
+#1 /home/dalemasdigit/public_html/front/wp-includes/template.php(716): load_template('/home/dalemasdi...', true, Array)
+#2 /home/dalemasdigit/public_html/front/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/index.php(7): get_header()
+#4 /home/dalemasdigit/public_html/front/wp-includes/template-loader.php(106): include('/home/dalemasdi...')
+#5 /home/dalemasdigit/public_html/front/wp-blog-header.php(19): require_once('/home/dalemasdi...')
+#6 /home/dalemasdigit/public_html/front/index.php(17): require('/home/dalemasdi...')
+#7 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php on line 197
+[21-Jul-2021 23:38:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_product_search_form() in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php:197
+Stack trace:
+#0 /home/dalemasdigit/public_html/front/wp-includes/template.php(770): require_once()
+#1 /home/dalemasdigit/public_html/front/wp-includes/template.php(716): load_template('/home/dalemasdi...', true, Array)
+#2 /home/dalemasdigit/public_html/front/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/index.php(7): get_header()
+#4 /home/dalemasdigit/public_html/front/wp-includes/template-loader.php(106): include('/home/dalemasdi...')
+#5 /home/dalemasdigit/public_html/front/wp-blog-header.php(19): require_once('/home/dalemasdi...')
+#6 /home/dalemasdigit/public_html/front/index.php(17): require('/home/dalemasdi...')
+#7 {main}
+  thrown in /home/dalemasdigit/public_html/front/wp-content/themes/dalemas/header.php on line 197
+[21-Jul-2021 23:43:34 UTC] WordPress database error Table 'front.wp_2_woocommerce_sessions' doesn't exist for query SELECT session_value FROM wp_2_woocommerce_sessions WHERE session_key = '1' made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, wc_load_cart, WooCommerce->initialize_session, WC_Session_Handler->init, WC_Session_Handler->init_session_cookie, WC_Session_Handler->get_session_data, WC_Session_Handler->get_session
+[21-Jul-2021 23:43:34 UTC] WordPress database error Table 'front.wp_2_wc_webhooks' doesn't exist for query SELECT webhook_id
+				FROM wp_2_wc_webhooks
+				WHERE 1=1
+				AND `status` = 'active'
+				
+				
+				
+				
+				
+				ORDER BY webhook_id DESC made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, WooCommerce->load_webhooks, wc_load_webhooks, WC_Data_Store->__call, WC_Webhook_Data_Store->get_webhooks_ids, WC_Webhook_Data_Store->search_webhooks
+[21-Jul-2021 23:43:34 UTC] WordPress database error Table 'front.wp_2_woocommerce_attribute_taxonomies' doesn't exist for query SELECT * FROM wp_2_woocommerce_attribute_taxonomies WHERE attribute_name != '' ORDER BY attribute_name ASC; made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Post_Types::register_taxonomies, wc_get_attribute_taxonomies
+[22-Jul-2021 00:09:03 UTC] WordPress database error Table 'front.wp_2_types_document' doesn't exist for query SELECT * FROM wp_2_types_document ORDER BY wp_2_types_document.des_tip ASC made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/dalemas/index.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, WC_Shortcodes::checkout, WC_Shortcodes::shortcode_wrapper, WC_Shortcode_Checkout::output, WC_Shortcode_Checkout::checkout, wc_get_template, include('/themes/dalemas/woocommerce/checkout/form-checkout.php'), WC_Checkout->get_checkout_fields, WC_Countries->get_address_fields, apply_filters('woocommerce_billing_fields'), WP_Hook->apply_filters, custom_override_checkout_fields, Cities_Clas->Find_Tipo_Document
+[22-Jul-2021 00:09:03 UTC] WordPress database error Table 'front.wp_2_types_document' doesn't exist for query SELECT * FROM wp_2_types_document ORDER BY wp_2_types_document.des_tip ASC made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/dalemas/index.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, WC_Shortcodes::checkout, WC_Shortcodes::shortcode_wrapper, WC_Shortcode_Checkout::output, WC_Shortcode_Checkout::checkout, wc_get_template, include('/themes/dalemas/woocommerce/checkout/form-checkout.php'), WC_Checkout->get_checkout_fields, WC_Countries->get_address_fields, apply_filters('woocommerce_shipping_fields'), WP_Hook->apply_filters, custom_override_shipping_fields, Cities_Clas->Find_Tipo_Document
+[22-Jul-2021 00:11:42 UTC] WordPress database error Table 'front.wp_2_types_document' doesn't exist for query SELECT * FROM wp_2_types_document ORDER BY wp_2_types_document.des_tip ASC made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/dalemas/index.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, WC_Shortcodes::checkout, WC_Shortcodes::shortcode_wrapper, WC_Shortcode_Checkout::output, WC_Shortcode_Checkout::checkout, wc_get_template, include('/themes/dalemas/woocommerce/checkout/form-checkout.php'), WC_Checkout->get_checkout_fields, WC_Countries->get_address_fields, apply_filters('woocommerce_billing_fields'), WP_Hook->apply_filters, custom_override_checkout_fields, Cities_Clas->Find_Tipo_Document
+[22-Jul-2021 00:11:42 UTC] WordPress database error Table 'front.wp_2_types_document' doesn't exist for query SELECT * FROM wp_2_types_document ORDER BY wp_2_types_document.des_tip ASC made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/dalemas/index.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, WC_Shortcodes::checkout, WC_Shortcodes::shortcode_wrapper, WC_Shortcode_Checkout::output, WC_Shortcode_Checkout::checkout, wc_get_template, include('/themes/dalemas/woocommerce/checkout/form-checkout.php'), WC_Checkout->get_checkout_fields, WC_Countries->get_address_fields, apply_filters('woocommerce_shipping_fields'), WP_Hook->apply_filters, custom_override_shipping_fields, Cities_Clas->Find_Tipo_Document
+[22-Jul-2021 00:25:43 UTC] WordPress database error Table 'front.wp_2_types_document' doesn't exist for query SELECT * FROM wp_2_types_document ORDER BY wp_2_types_document.des_tip ASC made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/dalemas/index.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, WC_Shortcodes::checkout, WC_Shortcodes::shortcode_wrapper, WC_Shortcode_Checkout::output, WC_Shortcode_Checkout::checkout, wc_get_template, include('/themes/dalemas/woocommerce/checkout/form-checkout.php'), WC_Checkout->get_checkout_fields, WC_Countries->get_address_fields, apply_filters('woocommerce_billing_fields'), WP_Hook->apply_filters, custom_override_checkout_fields, Cities_Clas->Find_Tipo_Document
+[22-Jul-2021 00:25:43 UTC] WordPress database error Table 'front.wp_2_types_document' doesn't exist for query SELECT * FROM wp_2_types_document ORDER BY wp_2_types_document.des_tip ASC made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/dalemas/index.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, WC_Shortcodes::checkout, WC_Shortcodes::shortcode_wrapper, WC_Shortcode_Checkout::output, WC_Shortcode_Checkout::checkout, wc_get_template, include('/themes/dalemas/woocommerce/checkout/form-checkout.php'), WC_Checkout->get_checkout_fields, WC_Countries->get_address_fields, apply_filters('woocommerce_shipping_fields'), WP_Hook->apply_filters, custom_override_shipping_fields, Cities_Clas->Find_Tipo_Document
+[22-Jul-2021 00:27:52 UTC] WordPress database error Table 'front.wp_2_types_document' doesn't exist for query SELECT * FROM wp_2_types_document ORDER BY wp_2_types_document.des_tip ASC made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/dalemas/index.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, WC_Shortcodes::checkout, WC_Shortcodes::shortcode_wrapper, WC_Shortcode_Checkout::output, WC_Shortcode_Checkout::checkout, wc_get_template, include('/themes/dalemas/woocommerce/checkout/form-checkout.php'), WC_Checkout->get_checkout_fields, WC_Countries->get_address_fields, apply_filters('woocommerce_billing_fields'), WP_Hook->apply_filters, custom_override_checkout_fields, Cities_Clas->Find_Tipo_Document
+[22-Jul-2021 00:27:52 UTC] WordPress database error Table 'front.wp_2_types_document' doesn't exist for query SELECT * FROM wp_2_types_document ORDER BY wp_2_types_document.des_tip ASC made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/dalemas/index.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, WC_Shortcodes::checkout, WC_Shortcodes::shortcode_wrapper, WC_Shortcode_Checkout::output, WC_Shortcode_Checkout::checkout, wc_get_template, include('/themes/dalemas/woocommerce/checkout/form-checkout.php'), WC_Checkout->get_checkout_fields, WC_Countries->get_address_fields, apply_filters('woocommerce_shipping_fields'), WP_Hook->apply_filters, custom_override_shipping_fields, Cities_Clas->Find_Tipo_Document
+[22-Jul-2021 00:36:45 UTC] Error Table 'front.wp_types_document' doesn't exist de la base de datos de WordPress para la consulta SELECT * FROM wp_types_document ORDER BY wp_types_document.des_tip ASC realizada por require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/dalemas/index.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, WC_Shortcodes::checkout, WC_Shortcodes::shortcode_wrapper, WC_Shortcode_Checkout::output, WC_Shortcode_Checkout::checkout, wc_get_template, include('/themes/dalemas/woocommerce/checkout/form-checkout.php'), WC_Checkout->get_checkout_fields, WC_Countries->get_address_fields, apply_filters('woocommerce_billing_fields'), WP_Hook->apply_filters, custom_override_checkout_fields, Cities_Clas->Find_Tipo_Document
+[22-Jul-2021 00:36:45 UTC] Error Table 'front.wp_types_document' doesn't exist de la base de datos de WordPress para la consulta SELECT * FROM wp_types_document ORDER BY wp_types_document.des_tip ASC realizada por require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/dalemas/index.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, WC_Shortcodes::checkout, WC_Shortcodes::shortcode_wrapper, WC_Shortcode_Checkout::output, WC_Shortcode_Checkout::checkout, wc_get_template, include('/themes/dalemas/woocommerce/checkout/form-checkout.php'), WC_Checkout->get_checkout_fields, WC_Countries->get_address_fields, apply_filters('woocommerce_shipping_fields'), WP_Hook->apply_filters, custom_override_shipping_fields, Cities_Clas->Find_Tipo_Document

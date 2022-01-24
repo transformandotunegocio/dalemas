@@ -1,0 +1,25 @@
+[10-Jun-2021 17:51:22 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/dalemasdigit/public_html/wp-includes/class-wp-query.php on line 782
+[10-Jun-2021 17:57:22 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/dalemasdigit/public_html/wp-includes/class-wp-query.php on line 782
+[10-Jun-2021 18:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/dalemasdigit/public_html/wp-content/themes/dalemas/header.php:207
+Stack trace:
+#0 /home/dalemasdigit/public_html/wp-includes/template.php(730): require_once()
+#1 /home/dalemasdigit/public_html/wp-includes/template.php(676): load_template('/home/dalemasdi...', true, Array)
+#2 /home/dalemasdigit/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/dalemasdigit/public_html/wp-content/themes/dalemas/404.php(9): get_header()
+#4 /home/dalemasdigit/public_html/wp-includes/template-loader.php(106): include('/home/dalemasdi...')
+#5 /home/dalemasdigit/public_html/wp-blog-header.php(19): require_once('/home/dalemasdi...')
+#6 /home/dalemasdigit/public_html/index.php(17): require('/home/dalemasdi...')
+#7 {main}
+  thrown in /home/dalemasdigit/public_html/wp-content/themes/dalemas/header.php on line 207
+[10-Jun-2021 18:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/dalemasdigit/public_html/wp-content/themes/dalemas/header.php:207
+Stack trace:
+#0 /home/dalemasdigit/public_html/wp-includes/template.php(730): require_once()
+#1 /home/dalemasdigit/public_html/wp-includes/template.php(676): load_template('/home/dalemasdi...', true, Array)
+#2 /home/dalemasdigit/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/dalemasdigit/public_html/wp-content/themes/dalemas/404.php(9): get_header()
+#4 /home/dalemasdigit/public_html/wp-includes/template-loader.php(106): include('/home/dalemasdi...')
+#5 /home/dalemasdigit/public_html/wp-blog-header.php(19): require_once('/home/dalemasdi...')
+#6 /home/dalemasdigit/public_html/index.php(17): require('/home/dalemasdi...')
+#7 {main}
+  thrown in /home/dalemasdigit/public_html/wp-content/themes/dalemas/header.php on line 207
+[10-Jun-2021 18:19:17 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/dalemasdigit/public_html/wp-includes/class-wp-query.php on line 782

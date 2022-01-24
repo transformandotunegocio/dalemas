@@ -1,0 +1,39 @@
+@select-width: 226px;
+div#msls.postbox {
+	label {
+		width: 16px;
+		margin-right: 6px;
+	}
+	select {
+		width: @select-width;
+	}
+}
+select.msls-translations {
+	width: @select-width;
+}
+#msls.postbox{
+	.inside {
+        li {
+            display: flex;
+            align-items: center;
+            label {
+                display: flex;
+                flex-grow: .1;
+            }
+            input.msls_title, select{
+                flex-grow: .9;
+            }
+        }
+	}
+}
+
+#msls-content-import {
+  .button-primary {
+    margin: 1em auto;
+  }
+}
+.flag-icon {
+    height: 1em;
+    overflow: hidden;
+    color: transparent;
+}
