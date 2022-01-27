@@ -1,0 +1,4 @@
+[2021-04-20 12:26:31 ::1 - Generar Excel FHR ] Inicio del proceso
+[2021-04-20 17:26:31 ::1 - Generar Excel FHR ] Archivo generado correctamente
+[2021-04-20 17:26:31 ::1 - Generar Excel FHR ] Fin del proceso
+[2021-04-20 17:26:31 ::1 - Generar Excel FHR ] Fin del proceso

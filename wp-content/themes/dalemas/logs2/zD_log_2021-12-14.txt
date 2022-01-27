@@ -1,0 +1,4 @@
+[2021-12-14 10:45:39 172.31.78.67 - Generar Excel FHR ] Inicio del proceso
+[2021-12-14 10:45:39 172.31.78.67 - Generar Excel FHR ] Archivo generado correctamente
+[2021-12-14 10:45:39 172.31.78.67 - Generar Excel FHR ] Fin del proceso
+[2021-12-14 10:45:39 172.31.78.67 - Generar Excel FHR ] Fin del proceso

@@ -1,0 +1,320 @@
+/*
+ ==============================================
+ Responsive Style (max-width : 1800px)
+ ==============================================
+*/
+@media only screen and (max-width: 1800px) {
+
+}
+/*
+ ==============================================
+ Responsive Style (max-width : 1600px)
+ ==============================================
+*/
+
+@media only screen and (max-width: 1600px) {
+ 
+}
+
+/*
+ ==============================================
+ Responsive Style (max-width : 1400px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 1450px) {
+    
+}
+/*
+ ==============================================
+ Responsive Style (max-width : 1400px)
+ ==============================================
+ */
+
+@media only screen and (max-height: 876px) {
+    
+}
+
+/*
+ ==============================================
+ Responsive Style (max-width : 1300px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 1300px) {
+
+}
+
+/*
+ ==============================================
+ Responsive Style (max-width : 1200px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+/*
+ ==============================================
+ Responsive Style (max-width : 940px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 1050px) {
+   
+}
+/*
+ ==============================================
+ Responsive Style (max-width : 890px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 950px) {
+  
+}
+
+
+/*
+ ==============================================
+ Responsive Style (max-width : 820px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 820px) {
+    
+}
+
+/*
+ ==============================================
+ Responsive Style (max-width : 768px)
+ ==============================================
+ */
+
+@media screen and (max-width: 768px) {
+  
+}
+
+/*
+ ==============================================
+ Responsive Style (max-width : 568px)
+ ==============================================
+ */
+
+@media screen and (max-width: 568px) {
+
+}
+/*
+ ==============================================
+ Responsive Style (max-width : 480px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 480px) {
+    #formDistribuidor{
+        padding: 40px 10px;
+    }
+    .header{
+        z-index: 10;
+    }
+    .content_carrito{
+        width: 100%;
+        z-index: 9999;
+    }
+    .popup_cover{
+        padding-top: 30px;
+    }
+    .forms_pages{
+        padding: 10px;
+    }
+    #customer_details{
+        width: 100%;
+        padding: 0;
+    }
+    .woocommerce-cart table.cart td.actions .coupon .input-text, .woocommerce .main_carrito button.button, #order_review{
+        width: 100% !important;
+    }
+    .tienda_producto_content_filtro, .main_tienda .home_products_content, .woocommerce div.product .woocommerce-tabs ul.tabs li{
+        width: 100%;
+    }
+    .products_content_items_img img{
+        height: 400px;
+        object-fit: cover;
+    }
+    .home_products_content_items{
+        margin-bottom: 40px;
+    }
+    .footer_section{
+        margin-bottom: 20px;
+    }
+    .footer_section h4{
+        text-align: center;
+    }
+    .footer_section p{
+        text-align: center;
+    }
+    .footer_section_copy p{
+        display: block;
+        font-size: 10px;
+        color: #fff;
+        letter-spacing: 2px;
+        line-height: 27px;
+    }
+    .footer_section_copy img{
+        vertical-align: middle;
+    }
+    .header_menu_ul{
+        position: fixed;
+        left: 0;
+        top: 95px;
+        width: 100%;
+        background: #000;
+        flex-wrap: wrap;
+        padding: 0 30px;
+        padding-bottom: 25vh;
+        display: none;
+    }
+    .header_menu_ul.OpenMenuResponsive{
+        display: block;
+    }
+    .header_menu_ul a{
+        width: 100%;
+    }
+    .header_menu_li{
+        width: 100%;
+        border-bottom: 1px solid #aaa;
+        margin: 0;
+        min-height: 44px;
+        height: auto;
+        flex-wrap: wrap;
+    }
+    .header_menu{
+        display: flex;
+        align-items: center;
+    }
+    .header_menu_sub_ul{
+        position: initial;
+        width: 100%;
+        opacity: 1;
+        visibility: visible;
+        display: none;
+    }
+    .mostrar_submenu{
+        display: block;
+    }
+    .menu_responsive, .menu_tools_car_responsive{
+        background: red;
+        padding: 10px;
+        margin: 0 5px;
+    }
+    .icon_menu_responsive i{
+        font-size: 27px;
+        color: #000;
+    }
+    .header_menu_li .icon-cheveron-down{
+        position: absolute;
+        right: 5px;
+        font-size: 20px;
+    }
+    .menu_tools_fla img{
+        width: 70px;
+        padding: 10px;
+    }
+    .header_menu_li:nth-child(10){
+        display: none;
+    }
+    .tools_search_content{
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+        transition: opacity .2s ease,visibility .2s ease,transform .2s ease;
+    }
+    .menu_tools_sea > a{
+        display: none;
+    }
+    .tools_search_content{
+        position: initial;
+        width: 100%;
+    }
+    .tools_search_content input{
+        width: 100%;
+    }
+    .menu_tools_use{
+        padding: 0;
+    }
+    .menu_tools_use a{
+        padding: 10px;
+    }
+    .home_banner img{
+        display: none;
+    }
+    .info_banner{
+        position: initial;
+    }
+    .info_banner p, .tienda_producto_content_filtro h2, .info_banner h1{
+        text-align: center;
+    }
+    .info_banner span{
+        margin: 20px auto;
+    }
+    .item_filtro{
+        width: 48%;
+    }
+    .producto_galeria_imagen, .producto_info{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .content_botones_mapa{
+        flex-wrap: wrap;
+    }
+    .producto_descripcion .content_botones_mapa a{
+        width: 100%;
+    }
+    .column_contacto form{
+        margin-top: 50px;
+    }
+    .main_contacto .contacto_input, .main_contacto .contacto_select, .main_contacto .contacto_textarea{
+        width: 100%;
+    }
+    .contancto_info_tienda{
+        padding: 20px;
+    }
+    .modal_login_imagen{
+        display: none;
+    }
+    .modal_login_formulario{
+        width: 100%;
+        padding: 10px;
+    }
+    .main_faqs h1{
+        font-size: 20px;
+    }
+    .main_home .home_banner img{
+        display: block;
+    }
+    .main_faqs, .main_terminos, .main_terminos_content{
+        padding: 10px;
+    }
+    .main_blog_content, .main_single_content{
+        padding: 10px
+    }
+    .single_info{
+        padding: 0;
+    }
+    .content_info_marca{
+        width: 100%;
+    }
+    .item_marca_team{
+        width: 80%;
+    }
+    .content_puntos_marca .item_marca_team_img{
+        height: auto;
+    }
+}
+/*
+ ==============================================
+ Responsive Style (max-width : 380px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 380px) {}

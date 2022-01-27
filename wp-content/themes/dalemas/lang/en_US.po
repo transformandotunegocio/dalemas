@@ -1,0 +1,811 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cronicas_desarmadas\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-08 16:12+0100\n"
+"PO-Revision-Date: 2020-06-23 18:03-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ Dale
+msgid "cuero"
+msgstr "leather"
+
+# @ Dale
+msgid "urbano"
+msgstr "urban"
+
+# @ Dale
+msgid "sintetico"
+msgstr "synthetic"
+
+# @ Dale
+msgid "neopreno"
+msgstr "neopreno"
+
+# @ Dale
+msgid "productos"
+msgstr "products"
+
+# @ Dale
+msgid "inicio"
+msgstr "home"
+
+# @ Dale
+msgid "descuentos"
+msgstr "discounts"
+
+# @ Dale
+msgid "promociones"
+msgstr "promotions"
+
+# @ Dale
+msgid "marca"
+msgstr "brand"
+
+# @ Dale
+msgid "contactenos"
+msgstr "contact-us"
+
+# @ Dale
+msgid "contáctenos"
+msgstr "contact Us"
+
+# @ Dale
+msgid "INDÍCANOS A QUÉ PAÍS DESEAS INGRESAR"
+msgstr "INDICATE WHICH COUNTRY YOU WANT TO ENTER"
+
+# @ Dale
+msgid "En Dale + estamos transcendiendo fronteras para llevarte nuestros productos"
+msgstr "At Dale + we are transcending borders to bring you our products"
+
+# @ Dale
+msgid "¿En que país deseas hacer tus compras?"
+msgstr "In which country do you want to make your purchases?"
+
+# @ Dale
+msgid "Iniciar sesión"
+msgstr "Log in"
+
+# @ Dale
+msgid "Acceder"
+msgstr "To access"
+
+# @ Dale
+msgid "Registrarse"
+msgstr "Sign in"
+
+# @ Dale
+msgid "Acepto"
+msgstr "I agree"
+
+# @ Dale
+msgid "los términos y condiciones"
+msgstr "the terms and conditions"
+
+# @ Dale
+msgid "terminos-y-condiciones"
+msgstr "terms-and-conditions"
+
+# @ Dale
+msgid "Registrarme"
+msgstr "Sign up"
+
+# @ Dale
+msgid "LO"
+msgstr "THE"
+
+# @ Dale
+msgid "VENDIDO"
+msgstr "SOLD"
+
+# @ Dale
+msgid "¡Oferta!"
+msgstr "Offer!"
+
+# @ Dale
+msgid "Seleccionar opciones"
+msgstr "Select options"
+
+# @ Dale
+msgid "Calle"
+msgstr "Street"
+
+# @ Dale
+msgid "HORARIO"
+msgstr "SCHEDULE"
+
+# @ Dale
+msgid "Lunes a Jueves"
+msgstr "Monday to thursday"
+
+# @ Dale
+msgid "Viernes a Sábado"
+msgstr "Friday to saturday"
+
+# @ Dale
+msgid "TELÉFONO"
+msgstr "TELEPHONE"
+
+# @ Dale
+msgid "Lunes a Sábado"
+msgstr "Monday to Saturday"
+
+# @ Dale
+msgid "Términos y condiciones"
+msgstr "Terms and Conditions"
+
+# @ Dale
+msgid "Políticas de Privacidad"
+msgstr "Privacy policies"
+
+
+# @ Dale
+msgid "politicas"
+msgstr "politics"
+
+# @ Dale
+msgid "Preguntas Frecuentes"
+msgstr "Frequent questions"
+
+# @ Dale
+msgid "TODOS LOS DERECHOS RESERVADOS"
+msgstr "ALL RIGHTS RESERVED"
+
+# @ Dale
+msgid "SÉ PARTE DE NUESTRA"
+msgstr "BE PART OF OUR"
+
+# @ Dale
+msgid "COMUNIDAD KINKY"
+msgstr "KINKY COMMUNITY"
+
+# @ Dale
+msgid "Y RECIBE UN"
+msgstr "AND RECEIVE A"
+
+# @ Dale
+msgid "DE DESCUENTO"
+msgstr "OFF"
+
+# @ Dale
+msgid "Sexo"
+msgstr "Sex"
+
+
+# @ Dale
+msgid "Hombre"
+msgstr "Man"
+
+# @ Dale
+msgid "Mujer"
+msgstr "Woman"
+
+# @ Dale
+msgid "Prefiero no decirlo"
+msgstr "I prefer not to say"
+
+# @ Dale
+msgid "Me gustaría recibir noticias sobre productos y servicios de Dale Más SAS. Consiento recibir mensajes de markenting personalizados por correo electrónico de Dale Más SAS."
+msgstr "I would like to receive news about Dale Más SAS products and services. I consent to receiving personalized email marketing messages from Dale Más SAS."
+
+# @ Dale
+msgid "SUSCRIBIRSE"
+msgstr "TO SUBSCRIBE"
+
+# @ Dale
+msgid "Al hacer click en Suscribirse, confirmas que has leido"
+msgstr "By clicking Subscribe, you confirm that you have read"
+
+# @ Dale
+msgid "y aceptas el aviso de privacidad de Dale Más"
+msgstr "and accept the privacy notice of Dale Más"
+
+# @ Dale
+msgid "Por favor, ingrese todos los datos requeridos"
+msgstr "Please enter all the required data"
+
+# @ Dale
+msgid "Cargando"
+msgstr "Loading"
+
+# @ Dale
+msgid "!Gracias por registrarte!"
+msgstr "Thank you for signing up!"
+
+# @ Dale
+msgid "Leer más"
+msgstr "Read more"
+
+# @ Dale
+msgid "Quieres aportar al crecimiento de la escena kinky en Colombia? Esta es tu oportunidad. Dale más fabrica y comercializa prendas fetichistas y kinky masculinas. Somos una empresa joven que está creciendo rápidamente. Es por eso que Dale Mas busca frecuentemente empleados que estén interesados en esta escena."
+msgstr "Want to contribute to the growth of the kinky scene in Colombia? This is your chance. Dale Más manufactures and markets male fetishist and kinky garments. We are a young company that is growing rapidly. That's why Dale Más frequently looks for employees who are interested in this scene."
+
+# @ Dale
+msgid "Taller"
+msgstr "Workshop"
+
+# @ Dale
+msgid "Ventas"
+msgstr "Sales"
+
+# @ Dale
+msgid "Tenemos un taller donde trabajamos diferentes materiales como el cuero, fibras, neopreno y materiales sintéticos. Si tiene experiencia en confesión trabajando con estos materiales, estaremos encantados de recibir su hoja de vida."
+msgstr "We have our workshop where we work with a variety of materials such as leather, fibers, neoprene and synthetic materials. If you have experience in making clothes working with these materials, we will be happy to accept your resume."
+
+# @ Dale
+msgid "Buscamos para nuestras tiendas en Bogotá y Medellín, personal de tiempo completo con disponibilidad para trabajar los sábados. Si tienes experiencia en ventas en el área de la moda y deseas trabajar con nosotros envíanos tu hoja de vida."
+msgstr "For our shops in Bogotá and Medellin, we look for full time staff, available to work on Saturdays. If you have sales experience in the fashion area and want to work with us please send us your resume."
+
+# @ Dale
+msgid "ESCRÍBENOS"
+msgstr "WRITE US"
+
+# @ Dale
+msgid "Nombre"
+msgstr "Name"
+
+# @ Dale
+msgid "Teléfono"
+msgstr "Telephone"
+
+# @ Dale
+msgid "Tipo de consulta"
+msgstr "Query type"
+
+# @ Dale
+msgid "Obtener Información"
+msgstr "Get information"
+
+# @ Dale
+msgid "Trabajar con nosotros"
+msgstr "Work with us"
+
+# @ Dale
+msgid "Mensaje"
+msgstr "Message"
+
+
+# @ Dale
+msgid "Enviar mensaje"
+msgstr "Send Message"
+
+# @ Dale
+msgid "Sede Bogotá"
+msgstr "Bogota Headquarters"
+
+# @ Dale
+msgid "Sede Medellín"
+msgstr "Medellin Headquarters"
+
+# @ Dale
+msgid "A sólo dos años de entrar en el mercado colombiano, Dale Más se posiciona como la principal marca que responde a las necesidades de una creciente comunidad fetish y kinky en el país."
+msgstr "Just after two years of entering the Colombian market, Dale Más has positioned itself as the main brand that responds to the needs of a growing fetish and kinky community in the country."
+
+# @ Dale
+msgid "La idea nace en Ámsterdam, Holanda, como resultado del deseo de Dayner y su pareja de regresar a Colombia luego de 20 años de vivir en el exterior y de compartir con una comunidad fetish, que cada día gana más adeptos alrededor del mundo y que en Colombia se ha ido popularizando a través de las diferentes fiestas temáticas, los encuentros de grupos leather y BDSM y la cotidianidad de quienes ven en estas prendas, una forma de expresar su estilo de vida."
+msgstr "The idea was born in Amsterdam, Holland, as a result of Dayner and his partner's desire to return to Colombia after 20 years of living abroad and sharing with a fetish community, whose followers around the world grow more and more each day, and that in Colombia it has become more popular through various theme parties, meetings of LEATHER and BDSM groups and the daily life of those who see in these garments, a way of expressing their lifestyle."
+
+# @ Dale
+msgid "CALIDAD"
+msgstr "QUALITY"
+
+# @ Dale
+msgid "Después de iniciar con un pequeño punto de venta en Chapinero-Bogotá, Dale Más ha encontrado una gran oportunidad para la comercialización de sus productos en diferentes ciudades del país, resaltando sus altos estándares de calidad europeos y en materiales como el cuero y el neopreno. La marca se ha convertido en una motivación para el fortalecimiento de los diferentes colectivos leather y BDSM, brindando la oportunidad de ser “mucho más abiertos y orgullosos de lo que disfrutan como comunidad”, afirma Dayner."
+msgstr "After starting with a small store in Chapinero-Bogota, Dale Más has found a great opportunity to market its products in various cities throughout the country, highlighting its high European quality standards in materials such as leather and neoprene. The brand has become a motivation to strengthen the various LEATHER and BDSM groups, providing them the opportunity to be “much more open and proud of what they enjoy as a community,” says Dayner."
+
+# @ Dale
+msgid "Luego de nuestro primer año en el mercado, hemos comenzado un proceso de crecimiento, generando nuevas alianzas que nos han permitido llegar con nuestros productos a un mayor número de clientes, los cuales exploran abiertamente su sexualidad. Es por ello que con el slogan “it’s fun to be kinky”, la marca busca desestigmatizar el uso del cuero y las prendas fetish, para convertirlas en un producto cotidiano que brinda mayores posibilidades de redescubrir el cuerpo entre un mercado creciente y ávido de experimentar nuevas sensaciones."
+msgstr "After our first year in the market, we begun a process of growth, generating new alliances that have allowed us to reach more customers with our products, who openly explore their sexuality. That is why, with the slogan “it’s fun to be kinky”, the brand seeks to destigmatize the use of leather and fetish garments, to make them an everyday product that offers greater possibilities of rediscovering the body for a growing market, eager to experience new sensations."
+
+# @ Dale
+msgid "Si estás en búsqueda de romper los estereotipos y proyectar de una manera mucho más atrevida tu sensualidad, ya tienes un motivo para conectarte con Dale Más."
+msgstr "If you're looking to break down stereotypes and project your sensuality in a much more daring way, you've really got a good reason to connect with Dale Más."
+
+# @ Dale
+msgid "Nuestros Puntos de Venta"
+msgstr "Our Points of Sale"
+
+# @ Dale
+msgid "Encuéntranos en la Calle 59 # 9 – 30 en Chapinero, Bogotá."
+msgstr "Find us at Calle 59 # 9 - 30 in Chapinero, Bogotá."
+
+# @ Dale
+msgid "Encuéntranos en la Calle 10 # 43 - 16, Medellín."
+msgstr "Find us at Calle 10 # 43 - 16, Medellín."
+
+# @ Dale
+msgid "LISTA DE PREGUNTAS MÁS FRECUENTES (FAQ)"
+msgstr "LIST OF FREQUENTLY ASKED QUESTIONS (FAQ)"
+
+# @ Dale
+msgid "¿QUÉ OTROS PRODUCTOS VENDEN?"
+msgstr "WHAT OTHER PRODUCTS DO YOU SELL?"
+
+# @ Dale
+msgid "Aparte de las líneas de prendas que producimos directamente, también manejamos productos como lubricantes, cockrings de aluminio y suplementos potenciadores y energizantes para hacer más duradero y placentero tu acto sexual. Si deseas conocer más sobre estos productos, nos puedes escribir al WhatsApp  +57 350 5152770 y con gusto daremos respuesta a tus inquietudes."
+msgstr "Apart from the clothing lines that we produce directly, we also handle products such as lubricants, aluminum cockrings, and enhancing and energizing supplements to make your sexual act more durable and enjoyable. If you want to know more about these products, you can write to us at WhatsApp +57 350 5152770 and we will gladly answer your questions."
+
+# @ Dale
+msgid "¿QUÉ OTRA FORMA DE PAGO TIENEN?"
+msgstr "WHAT OTHER FORM OF PAYMENT DO YOU HAVE?"
+
+# @ Dale
+msgid "Contamos con nuestra plataforma de PAYU a través de nuestra web, donde puedes utilizar todas las tarjetas debito o crédito. También te damos la posibilidad de realizar el pago por consignación a alguna de las cuentas que manejamos para pagos. Comunícate al WhatsApp  +57 350 5152770 y con gusto daremos la información de nuestras cuentas."
+msgstr "We have our PAYU platform through our website, where you can use all debit or credit cards. We also give you the possibility of making the payment by consignment to any of the accounts that we handle for payments. Call WhatsApp +57 350 5152770 and we will gladly provide the information of our accounts."
+
+# @ Dale
+msgid "¿CÓMO HACEN EL ENVÍO DE LOS PRODUCTOS?"
+msgstr "HOW DO YOU SHIP THE PRODUCTS?"
+
+# @ Dale
+msgid "Una vez realizada y verificada la compra, nuestro equipo realiza el envío a través de la empresa de correos Servientrega. Este servicio aplica para las compras realizadas por desde otras ciudades diferentes a Bogotá o Medellín, o zonas fuera de alcance de nuestro domiciliario. Es importante resaltar, que los tiempos de envío son responsabilidad de la empresa de envío, por ello, al realizar la compra, le haremos llegar el número de guía para que pueda hacer rastreo de su producto comprado."
+msgstr "Once the purchase is made and verified, our team makes the shipment through the Servuríaga post company. This service applies to purchases made by cities other than Bogotá or Medellín, or areas out of reach of our domicile. It is important to note that shipping times are the responsibility of the shipping company, therefore, when making the purchase, we will send you the guide number so that you can track your purchased product."
+
+# @ Dale
+msgid "¿HACEN ENVÍOS CONTRA ENTREGA?"
+msgstr "DO YOU MAKE SHIPMENTS AGAINST DELIVERY?"
+
+# @ Dale
+msgid "NO. Por el momento, solo hacemos envío de los productos que sean pagados a través de la web o por medio de la consignación a alguna de las cuentas antes de que el pedido sea enviado."
+msgstr "NOT. At the moment, we only ship the products that are paid for through the web or through the consignment to any of the accounts before the order is shipped."
+
+# @ Dale
+msgid "¿TIENE ALGÚN COSTO EL ENVÍO DE LOS PRODUCTOS?"
+msgstr "DOES THE DELIVERY OF THE PRODUCTS HAVE ANY COST?"
+
+# @ Dale
+msgid "Si la compra supera los $100.000 pesos, El envió no tendrá ningún costo. Sin embargo, la compra es menor a dicho valor, el cliente deberá asumir un valor de $10.000 pesos, los cuales se aplican automáticamente al realizar la compra por la web o se deberán adicionar al valor del producto, en caso de que el pago se haga a través de transferencia bancaria. Independientemente del valor que tenga el envío a cualquier ciudad del país, DaleMas asume el costo restante del envío."
+msgstr "If the purchase exceeds $ 100,000 pesos, the shipment will have no cost. However, the purchase is less than said value, the customer must assume a value of $ 10,000 pesos, which are automatically applied when making the purchase through the web or must be added to the value of the product, in case the payment is made through bank transfer. Regardless of the value of shipping to any city in the country, DaleMas assumes the remaining cost of shipping."
+
+
+# @ Dale
+msgid "¿LOS PRODUCTOS TIENEN GARANTÍA?"
+msgstr "DO THE PRODUCTS HAVE A WARRANTY?"
+
+
+# @ Dale
+msgid "Cada línea tiene su tiempo de garantía, siempre y cuando sea por defectos de fábrica y no por mala manipulación del producto. En caso de que el cliente desee realizar una reparación del producto por daños relacionados con el uso, Dale Mas ofrece el servicio de reparación y el costo deberá ser asumido por el cliente."
+msgstr "Each line has its warranty period, as long as it is due to manufacturing defects and not due to improper handling of the product. In the event that the customer wishes to repair the product for damage related to use, Dale Mas offers the repair service and the cost must be borne by the customer."
+
+
+# @ Dale
+msgid "¿TIEMPO DE ENVÍO DE LOS PRODUCTOS?"
+msgstr "DELIVERY TIME OF THE PRODUCTS?"
+
+
+# @ Dale
+msgid "El tiempo de envío de los productos depende del día y hora de la compra. Los despachos se realizan de lunes a viernes. Los fines de semana o días festivos no se hacen despachos. Una vez que el producto sea entregado a la empresa de correos, el tiempo de despacho dependerá de los tiempos establecidos por dicha compañía. Para ello, Dale Más siempre hará entrega de la Guía de envío, con el objetivo que el cliente pueda hacer rastreo de su producto."
+msgstr "The shipping time of the products depends on the day and time of purchase. Dispatches are made from Monday to Friday. On weekends or holidays there are no dispatches. Once the product is delivered to the postal company, the dispatch time will depend on the times established by said company. To do this, Dale Más will always deliver the Shipping Guide, with the aim that the customer can track their product."
+
+
+# @ Dale
+msgid "¿REALIZAN OTRO DISEÑO FUERA DE LOS QUE VENDE LA MARCA?"
+msgstr "DO YOU MAKE ANOTHER DESIGN OUTSIDE THE ONE THAT THE BRAND SELLS?"
+
+# @ Dale
+msgid "Diseños que no estén dentro del catálogo de nuestros productos, podrán ser considerados por Dale Mas para producirlos bajo pedido, siempre y cuando se cuente con el tiempo de la disponibilidad de la materia prima para producirlo. En caso de requerir este servicio, te puedes comunicar a través de nuestro whatsapp +57 350 5152770 y con gusto daremos respuesta a tus inquietudes."
+msgstr "Designs that are not within the catalog of our products, may be considered by Dale Mas to produce them on request, as long as the time of availability of the raw material to produce it is counted. If you require this service, you can communicate through our whatsapp +57 350 5152770 and we will gladly respond to your concerns."
+
+# @ Dale
+msgid "Forma de pago"
+msgstr "Way to pay"
+
+# @ Dale
+msgid "Para compras en línea, aceptamos tarjetas de crédito (VISA o MasterCard), transferencia bancaria o pagos vía efecty. Los pagos sólo deben realizarse en moneda local – Pesos – COP."
+msgstr "For online purchases, we accept credit cards (VISA or MasterCard), bank transfer or payments via cash. Payments should only be made in local currency - Pesos - COP."
+
+# @ Dale
+msgid "no puede aceptar ninguna responsabilidad por el efectivo confiado al sistema postal o el pago a terceras personas."
+msgstr "cannot accept any responsibility for cash entrusted to the postal system or payment to third parties."
+
+# @ Dale
+msgid "Contacto"
+msgstr "Contact"
+
+# @ Dale
+msgid "Para la tienda en línea, contáctenos por correo electrónico: ventas@dalemas.com. En caso de que necesite hablar con un asesor en línea, el horario de apertura de nuestra tienda en línea es de 11:00 a 17:00 p.m. – p.m. (GMT + 1). Lamentamos informarle que cualquier pregunta relacionada con la tienda en línea no se puede responder los fines de semana."
+msgstr "For the online store, please contact us by email: ventas@dalemas.com. In case you need to speak to an online advisor, our online store's opening hours are from 11:00 to 17:00 p.m. - p.m. (GMT + 1). We regret to inform you that any questions regarding the online store cannot be answered on weekends."
+
+# @ Dale
+msgid "Aduana / Restricciones legales"
+msgstr "Customs / Legal restrictions"
+
+# @ Dale
+msgid "Somos una empresa Colombiana que comercia con productos legales en América Latina. La ley varía de un país a otro. Dependiendo de las leyes y regulaciones aduaneras de su país, la importación / recibimiento de productos serán legales en su propio país de residencia. DALE MAS rige por la ley colombiana y, por lo tanto, no es responsable de los artículos que se abren, pierden, detienen o confiscan las autoridades postales o aduaneras de su país. Usted, como consumidor, debe cumplir y conocer las leyes y regulaciones de su propio país. El cliente es responsable de cualquier problema legal que surja de las aduanas en su país. Bajo ninguna circunstancia, DALE MAS SAS será responsable de las ventas y la entrega de productos prohibidos en el país del cliente."
+msgstr "We are a Colombian company that deals with legal products in Latin America. The law varies from country to country. Depending on the customs laws and regulations of your country, the import / receipt of products will be legal in your own country of residence. DALE MAS is governed by Colombian law and, therefore, is not responsible for items that are opened, lost, detained or confiscated by the postal or customs authorities of your country. You, as a consumer, must comply with and know the laws and regulations of your own country. The customer is responsible for any legal issues arising from customs in their country. Under no circumstances will DALE MAS SAS be responsible for the sales and delivery of prohibited products in the client's country."
+
+# @ Dale
+msgid "Cuando enviamos mercancías fuera de Colombia, el paquete pasa por la aduana en el país de destino. DALE MAS asegura la exportación correcta, pero no tiene ningún vínculo con sus procedimientos aduaneros nacionales. Todos los costos involucrados (impuesto de importación, derechos locales, IVA) serán pagados por el cliente."
+msgstr "When we send goods outside of Colombia, the package goes through customs in the destination country. DALE MAS ensures correct export, but has no link with your national customs procedures. All costs involved (import tax, local duties, VAT) will be paid by the customer."
+
+# @ Dale
+msgid "Dirección de entrega diurna"
+msgstr "Daytime delivery address"
+
+# @ Dale
+msgid "La empresa transportadora funciona solo de lunes a sábado durante el día. Si no nos proporciona una dirección de entrega diurna, la entrega de su paquete presentará dificultad. Todos los pedidos se empacan y envían discretamente para que la entrega en una dirección de trabajo también sea una opción."
+msgstr "The transport company works only from Monday to Saturday during the day. If you do not provide us with a daytime delivery address, delivery of your package will be difficult. All orders are packaged and shipped discreetly so delivery to a working address is also an option."
+
+# @ Dale
+msgid "Garantía de los productos"
+msgstr "Products warranty"
+
+# @ Dale
+msgid "DALE MAS garantiza la calidad de todos sus productos durante y hasta 2 meses después de la fecha de compra por defectos de materiales o mano de obra."
+msgstr "DALE MAS guarantees the quality of all its products during and up to 2 months after the date of purchase for defects in materials or workmanship."
+
+
+# @ Dale
+msgid "Cualquier devolución debido a defectos y quejas, serán reemplazadas y acreditadas por DALE MAS, siempre que la devolución sea causada por defectos en el material y / o defecto de mano de obra. DALE MAS no aceptará / reemplazará / realizará devoluciones de dinero que sean causadas por uso incorrecto o mal manejo, desgaste normal y / o almacenamiento inadecuado y / o mal mantenimiento del artículo en disputa. El daño de cualquier prenda o producto debido a objetos filosos o liquidos, sustancias o aceites que no se hayan recomendado directa y explicitamente por DALE MAS está excluido de la garantía. Si los productos son defectuosos en materiales o mano de obra, notifíquelos y devuélvalos de inmediato, sin usar, para cambio o reembolso."
+msgstr "Any returns due to defects and complaints will be replaced and credited by DALE MAS, provided that the return is caused by defects in material and / or defect in workmanship. DALE MAS will not accept / replace / make money refunds that are caused by improper use or mishandling, normal wear and / or improper storage and / or poor maintenance of the disputed item. Damage to any garment or product due to sharp objects or liquids, substances or oils that have not been directly and explicitly recommended by DALE MAS is excluded from the warranty. If the products are defective in materials or workmanship, please notify them and return them immediately, unused, for exchange or refund."
+
+# @ Dale
+msgid "DALE MAS no se hace responsable de devoluciones por el desconocimiento de tallas y medidas, para tal efecto en la pagina se encuentra referenciando los diferentes tallajes. En caso de que esto suceda puede comunicarse para recibir orientación de un posible cambio, los costos de devolución y reenvío deberan ser asumidos por el cliente. Esto no aplica en prendas de uso interior o productos con restricción."
+msgstr "DALE MAS is not responsible for returns due to ignorance of sizes and measurements, for this purpose the page is referencing the different sizes. In the event that this happens, you can contact us to receive guidance on a possible change, the costs of return and forwarding must be borne by the customer. This does not apply to underwear or restricted products."
+
+# @ Dale
+msgid "Productos no disponibles"
+msgstr "Products not available"
+
+# @ Dale
+msgid "Se le informará dentro de las 24 horas y se le dará una indicación de la fecha prevista de entrega. Procederemos con el resto del pedido siempre que sea posible."
+msgstr "You will be informed within 24 hours and given an indication of the expected delivery date. We will proceed with the rest of the order whenever possible."
+
+# @ Dale
+msgid "Dirección postal"
+msgstr "Postal address"
+
+# @ Dale
+msgid "En caso de poseer un casillero para entrega de productos, los costos adicionales de este serán asumidos por le cliente. Debe comunicar esto en el momento de la compra."
+msgstr "In case of having a locker for delivery of products, the additional costs of this will be assumed by the client. You must communicate this at the time of purchase."
+
+# @ Dale
+msgid "Responsabilidad"
+msgstr "Responsibility"
+
+# @ Dale
+msgid "DALE MAS no se responsabiliza por daños o lesiones corporales ocasionados durante el uso de nuestros productos. No podemos aceptar la responsabilidad de los artículos que se abren, pierden, retrasan, detienen o confiscan las autoridades postales o aduaneras."
+msgstr "DALE MAS is not responsible for damages or bodily injuries caused during the use of our products. We cannot accept responsibility for items that are opened, lost, delayed, stopped or seized by the postal or customs authorities."
+
+# @ Dale
+msgid "Pedido por envío"
+msgstr "Order by shipment"
+
+# @ Dale
+msgid "Si prefiere no realizar pedidos en línea, puede contactarnos directamente en nuestras redes sociales Facebook e Instagram, comunicarse directamente a las líneas telefónicas 3138046819 o dirigirse personalmente a nuestras tienda física DALE MAS: Bogotá: Calle 63 # 9ª 97 Local 1022, Centro Comercial Lourdes. – Medellín: Carrera 49 # 52-107, local 106 El Unión Centro Comercial."
+msgstr "If you prefer not to order online, you can contact us directly on our social networks Facebook and Instagram, communicate directly to the telephone lines 3138046819 or go personally to our physical store DALE MAS: Bogotá: Calle 63 # 9ª 97 Local 1022, Centro Comercial Lourdes. - Medellín: Carrera 49 # 52-107, local 106 El Unión Shopping Center."
+
+# @ Dale
+msgid "Paquetes devueltos a DALE MAS por la compañía de envío"
+msgstr "Packages returned to DALE MAS by the shipping company"
+
+
+# @ Dale
+msgid "Si por alguna razón el paquete se devuelve, para su re-entrega, el costo total de reenvío recae en el cliente. Asegúrese de haber ingresado una dirección de entrega diurna y de que la dirección sea correcta."
+msgstr "If for any reason the package is returned, for re-delivery, the full cost of resending falls on the customer. Make sure you have entered a daytime delivery address and that the address is correct."
+
+# @ Dale
+msgid "Calidad"
+msgstr "Quality"
+
+# @ Dale
+msgid "Todos los productos pasan por nuestra revisión de calidad antes de ser despachados. Por favor, compruebe su entrega cuidadosamente al recibirla y notifíquenos de inmediato si algo está mal."
+msgstr "All products go through our quality review before being dispatched. Please check your delivery carefully upon receipt and notify us immediately if something is wrong."
+
+# @ Dale
+msgid "Productos personalizados"
+msgstr "Custom products"
+
+# @ Dale
+msgid "Para la elaboración de este tipo de productos, se requiere de un pago inicial del 50% del valor total al momento de hacer el pedido. El precio de este tipo de productos varia de acuerdo a la complejidad de su elaboración. No se acepta la devolución de productos hechos a medida. Para esto debe contactarnos directamente."
+msgstr "For the elaboration of this type of products, an initial payment of 50% of the total value is required at the time of ordering. The price of this type of product varies according to the complexity of its preparation. Returns of custom made products are not accepted. For this you must contact us directly."
+
+# @ Dale
+msgid "Conexión segura"
+msgstr "Secure connection"
+
+# @ Dale
+msgid "Realice su pedido con confianza: la tienda en línea de DALE MAS está desarrollada para admitir compras en línea seguras a través de la tecnología Secure Socket Layer (SSL). Toda la información que proporciones está encriptada para tu protección."
+msgstr "Place Your Order With Confidence - The DALE MAS Online Store is developed to support secure online shopping via Secure Socket Layer (SSL) technology. All the information you provide is encrypted for your protection."
+
+# @ Dale
+msgid "Envíos"
+msgstr "Shipping"
+
+# @ Dale
+msgid "Se hacen enviamos de lunes a viernes en días laborales (no festivos)."
+msgstr "They are made we ship from Monday to Friday on business days (not holidays)."
+
+# @ Dale
+msgid "Compañías de envió"
+msgstr "Shipping companies"
+
+# @ Dale
+msgid "Utilizamos el servicio de mensajería con empresas certificadas del país y con una confiabilidad de casi el 100%. Por medio de la pagina web de ellas y con el numero de la guía podrá hacer el seguimiento del estado del envío de su mercancía."
+msgstr "We use the courier service with certified companies in the country and with a reliability of almost 100%. Through their website and with the number of the guide you can track the status of the shipment of your merchandise."
+
+# @ Dale
+msgid "Uso de tu número telefónico"
+msgstr "Use of your phone number"
+
+# @ Dale
+msgid "Debido a que nuestras compañías de envío podrían necesitar contactarlo por teléfono, este será proporcionado por nosotros, según el número que usted registre en nuestra base de datos."
+msgstr "Since our shipping companies may need to contact you by phone, it will be provided by us, based on the number you record in our database."
+
+# @ Dale
+msgid "Rastreo de envíos"
+msgstr "Tracking shipments"
+
+# @ Dale
+msgid "Se le dará un número de seguimiento o guía con el cual puede seguir el envío."
+msgstr "You will be given a tracking number or guide with which you can track the shipment."
+
+# @ Dale
+msgid "Contacto post-venta"
+msgstr "After-sales contact"
+
+# @ Dale
+msgid "Dale Mas puede contactar a personas que hayan comprado nuestros productos Dale Mas para informar si el proceso de ventas salió bien y si el producto cumple con la calidad que se puede esperar."
+msgstr "Dale Mas can contact people who have bought our Dale Mas products to inform if the sales process went well and if the product meets the quality that can be expected."
+
+# @ Dale
+msgid "Colombia: Todos los productos se facturan incluyendo el IVA (19%)"
+msgstr "Colombia: All products are billed including VAT (19%)"
+
+# @ Dale
+msgid "Información legal"
+msgstr "Legal information"
+
+# @ Dale
+msgid "Fuera de Colombia: todos los productos se facturan excluyendo el 19% de IVA."
+msgstr "Outside of Colombia: all products are billed excluding 19% VAT."
+
+# @ Dale
+msgid "IVA"
+msgstr "VAT"
+
+# @ Dale
+msgid "Régimen simplificado"
+msgstr "Simplified regimen"
+
+# @ Dale
+msgid "Devoluciones y cambios"
+msgstr "Returns and exchanges"
+
+# @ Dale
+msgid "El cliente tiene derecho a cambiar los artículos no utilizados dentro de un periodo de 14 días calendario posteriores a la entrega por parte de DALE MAS. Este cambio se hace según disponibilidad de productos en el stock de nuestras tiendas; en caso de no haber existencia el cliente tendrá un saldo a favor redimible por cualquier otro producto disponible y siguiendo las normas de condiciones y restricciones vigente."
+msgstr "The customer has the right to exchange unused items within a period of 14 calendar days after delivery by DALE MAS. This change is made according to availability of products in the stock of our stores; if there is no existence, the customer will have a balance in favor redeemable for any other available product and following the current conditions and restrictions."
+
+# @ Dale
+msgid "Lea la tabla de tallas asociadas con cada producto y asegúrese de escoger la adecuada para usted . Si no esta seguro póngase en contacto con nosotros."
+msgstr "Read the size chart associated with each product and make sure you choose the one that is right for you. If you are not sure please contact us."
+
+# @ Dale
+msgid "Se aplican las siguientes condiciones y restricciones"
+msgstr "The following conditions and restrictions apply"
+
+# @ Dale
+msgid "Los productos deben estar completamente nuevos, no deben ser usados, deben estar en su empaque original y sin presentar algún daño o alteración."
+msgstr "The products must be brand new, they must not be used, they must be in their original packaging and without any damage or alteration."
+
+# @ Dale
+msgid "No aceptamos devoluciones ni cambios de prendas intimas, como jockstraps, briefs, trajes de luchador, toda clase de bicicleteros, medias, pecheras en neopreno, botas, toda clase de cockrings y ball stretchers, una vez recibidos y/o retirados del paquete. Esto en cumplimeinto de las normas vigentes de higiene y comercialización de este tipo de productos."
+msgstr "We do not accept returns or exchanges of underwear, such as jockstraps, briefs, wrestling suits, all kinds of bicycle racks, socks, neoprene bibs, boots, all kinds of cockrings and ball stretchers, once received and / or removed from the package. This in compliance with current hygiene and marketing standards for this type of product."
+
+# @ Dale
+msgid "Quedan exentos de nuestra política de devolución y cambios los productos que se fabrican de acuerdo con las especificaciones del cliente (hechos a medida)."
+msgstr "Products manufactured according to customer specifications (made to measure) are exempt from our return and exchange policy."
+
+# @ Dale
+msgid "Quedan exentos de nuestra política de devolución y cambios los productos que se; hayan comprado en promociones, por medio de cupones de descuento, eventos o que se haya establecido así en alguna de nuestras tiendas físicas o virtuales."
+msgstr "Products are exempt from our return and exchange policy; have bought in promotions, through discount coupons, events or that have been established in one of our physical or virtual stores."
+
+# @ Dale
+msgid "En el caso de un intercambio de productos (productos devueltos por productos nuevos), el cliente es responsable de los costos extras por envío."
+msgstr "In the case of an exchange of products (products returned for new products), the customer is responsible for the extra costs for shipping."
+
+# @ Dale
+msgid "Envíos y entregas"
+msgstr "Shipments and deliveries"
+
+# @ Dale
+msgid "Cuando se ha autorizado o recibido el pago, tanto el cliente como DALE MAS reciben un correo electrónico que indica que el pago se ha efectuado correctamente. Luego procedemos a enviar su pedido."
+msgstr "When the payment has been authorized or received, both the client and DALE MAS receive an email indicating that the payment has been made correctly. Then we proceed to send your order."
+
+# @ Dale
+msgid "Cuando todos los artículos están indicados como disponibles: los pedidos recibidos antes de las 14:00 (2:00 p. M) GMT + 1 (CET) tienen 99% de garantía de salir el mismo día. Durante las temporadas altas por fechas especiales o eventos, las mercancías se enviarán a más tardar al día siguiente."
+msgstr "When all items are listed as in stock: Orders received before 2:00 PM GMT + 1 (CET) have a 99% same day shipping guarantee. During peak seasons for special dates or events, the goods will be shipped no later than the next day."
+
+# @ Dale
+msgid "En el caso de que los productos no estén en stock, se le notificará por correo electrónico con el tiempo de entrega previsto, esto le dará la oportunidad de cancelar o cambiar su pedido."
+msgstr "In the event that the products are not in stock, you will be notified by email with the expected delivery time, this will give you the opportunity to cancel or change your order."
+
+# @ Dale
+msgid "Una vez enviado, recibirá un correo electrónico con los detalles de rastreo y seguimiento, para que pueda monitorear su paquete hasta su puerta. El correo electrónico se enviará a la dirección que se proporcionó en el momento en que se realizó su pedido."
+msgstr "Once shipped, you will receive an email with the track and trace details, so you can monitor your package to your doorstep. The email will be sent to the address that was provided at the time your order was placed."
+
+# @ Dale
+msgid "Todos nuestros envíos deben ser firmados por la persona que los recibe, como comprobante de entrega en el lugar de destino. No se aceptará ninguna sugerencia para dejarlo en abandono o custodia de terceros no autorizados como colóquela sobre la puerta o déjelo en la portería, ya que los paquetes podrían extraviarse."
+msgstr "All our shipments must be signed by the person who receives them, as proof of delivery at the destination. Any suggestion to leave it in abandonment or custody of unauthorized third parties such as put it on the door or leave it at the door will not be accepted, since the packages could be lost."
+
+# @ Dale
+msgid "no es responsable por pedidos retrasados debido a problemas con la empresa de envíos. Sin embargo, haremos todo lo posible para resolver los problemas en caso de que ocurran. Si no ha recibido los productos dentro del tiempo previsto, contáctenos para que podamos dar soluciones."
+msgstr "is not responsible for orders delayed due to problems with the shipping company. However, we will do our best to resolve the issues should they occur. If you have not received the products within the expected time, please contact us so that we can provide solutions."
+
+# @ Dale
+msgid "Política de privacidad"
+msgstr "Privacy Policy"
+
+# @ Dale
+msgid "Privacidad de los datos personales"
+msgstr "Privacy of personal data"
+
+# @ Dale
+msgid "Sus datos personales le corresponden solo a usted y este sitio web es responsable de no revelar ninguna clase de información que le pertenezca (como email, números de ip, etc.), salvo bajo su expresa autorización o fuerzas de naturaleza mayor de tipo legal que lo involucren, como hackeos o suplantaciones."
+msgstr "Your personal data corresponds only to you and this website is responsible for not revealing any kind of information that belongs to you (such as email, IP numbers, etc.), except under your express authorization or forces of a greater nature of a legal nature than involve you, such as hacks or spoofs."
+
+# @ Dale
+msgid "Responsabilidad de las opiniones vertidas"
+msgstr "Responsibility for the opinions expressed"
+
+# @ Dale
+msgid "Las publicaciones a modo de artículos (también llamados posts) son responsabilidad del autor del blog. Los comentarios, vertidos por los visitantes, son responsabilidad de ellos mismos y en caso alguno de que violen las reglas mínimas de respeto a los demás y a las buenas costumbres, éstos serían borrados por el editor del blog, sin esperar su consentimiento."
+msgstr "The publications as articles (also called posts) are the responsibility of the blog author. The comments, made by the visitors, are the responsibility of themselves and in any case that they violate the minimum rules of respect for others and good customs, they would be deleted by the editor of the blog, without waiting for their consent."
+
+# @ Dale
+msgid "Seguridad de su información personal"
+msgstr "Security of your personal information"
+
+# @ Dale
+msgid "Este sitio web se hace responsable de velar por su seguridad, por la privacidad de su información y por el respeto a sus datos, de acuerdo con las limitaciones que la actual Internet nos provee, siendo conscientes que no estamos excluidos de sufrir algún ataque por parte de hackers o usuarios malintencionados que ejerzan la delincuencia informática."
+msgstr "This website is responsible for ensuring your security, for the privacy of your information and for respecting your data, in accordance with the limitations that the current Internet provides us, being aware that we are not excluded from suffering an attack by from hackers or malicious users who engage in computer crime."
+
+# @ Dale
+msgid "Obtención de su información"
+msgstr "Obtaining your information"
+
+# @ Dale
+msgid "Todos sus datos personales consignados en este sitio son suministrados por usted mismo, haciendo uso entero de su libertad. La información aquí almacenada solo comprende datos básicos ingresados mediante formularios de contacto, comentarios u otros similares."
+msgstr "All your personal data entered on this site are provided by yourself, making full use of your freedom. The information stored here only includes basic data entered through contact forms, comments or other similar."
+
+# @ Dale
+msgid "Uso de la información"
+msgstr "Use of information"
+
+# @ Dale
+msgid "Al proporcionarnos sus datos personales, estando de acuerdo con la Política de Privacidad aquí consignada, nos autoriza para el siguiente uso de su información: a) para el fin mismo por lo cual se ha suministrado; b) para considerarlo dentro de nuestras estadísticas de tráfico, incrementando así nuestra oferta publicitaria y de mercado; c) para orientar mejor los servicios aquí ofrecidos y valorarlos a su criterio,  d) para enviar e-mails con nuestros boletines, responder inquietudes o comentarios, y mantener informado a nuestros usuarios y e)como autorización a Dale Mas para contactarle después de que haya comprado alguno de nuestros productos Dale Mas. Este contacto es para informar si el proceso de ventas salió bien y si el producto cumple con la calidad que se puede esperar."
+msgstr "By providing us with your personal data, agreeing with the Privacy Policy set forth herein, you authorize us for the following use of your information: a) for the same purpose for which it was provided; b) to consider it within our traffic statistics, thus increasing our advertising and market offer; c) to better guide the services offered here and assess them at your discretion, d) to send e-mails with our newsletters, answer questions or comments, and keep our users informed and e) as authorization to Give More to contact you after you have bought one of our Dale Mas products. This contact is to inform if the sales process went well and if the product meets the quality that can be expected."
+
+
+# @ Dale
+msgid "Uso de los cookies"
+msgstr "Use of cookies"
+
+
+# @ Dale
+msgid "El uso de cookies y su dirección IP, tomados por este sitio, se realiza solo con la finalidad de mantenerles un sitio de acuerdo a sus preferencias locales (tales como navegador web usado, sistema operativo, ISP, etc.). Las “cookies” permiten entregar un contenido ajustado a los intereses y necesidades de nuestros usuarios/visitantes. También podrían usarse cookies de Terceros que estén presentes en este Weblog, como anunciantes o publicidad del mismo, con el único fin de proveer informaciones adicionales o relevantes a la Navegación del Usuario en este Sitio Web."
+msgstr "The use of cookies and your IP address, taken by this site, is done only for the purpose of maintaining a site according to your local preferences (such as used web browser, operating system, ISP, etc.). Cookies allow the delivery of content tailored to the interests and needs of our users / visitors. Third-party cookies that are present in this Weblog could also be used, such as advertisers or advertising thereof, for the sole purpose of providing additional or relevant information to the User's Navigation on this Website."
+
+
+# @ Dale
+msgid "Modificaciones a nuestras Políticas de Privacidad"
+msgstr "Modifications to our Privacy Policies"
+
+
+# @ Dale
+msgid "El sitio web se reserva el derecho de modificar, rectificar, alterar, agregar o eliminar cualquier punto del presente escrito en cualquier momento y sin previo aviso, siendo su responsabilidad el mantenerse informado del mismo para una adecuada administración de su información."
+msgstr "The website reserves the right to modify, rectify, alter, add or eliminate any point of this writing at any time and without prior notice, being your responsibility to stay informed of it for an adequate administration of your information."
+
+# @ Dale
+msgid "Filtros activos"
+msgstr "Active filters"
+
+# @ Dale
+msgid "Categorias"
+msgstr "Categories"
+
+# @ Dale
+msgid "Precio"
+msgstr "Price"
+
+# @ Dale
+msgid "Aun no tienes filtros"
+msgstr "You don't have filters yet"
+
+# @ Dale
+msgid "VIVE LA EXPERIENCIA DÁLE MÁS"
+msgstr "LIVE THE EXPERIENCE GIVE IT MORE"
+
+# @ Dale
+msgid "DESCUENTOS"
+msgstr "DISCOUNTS"
+
+# @ Dale
+msgid "PRODUCTOS RELACIONADOS"
+msgstr "RELATED PRODUCTS"
+
+# @ Dale
+msgid "El precio es por unidad"
+msgstr "The price is per unit"
+
+# @ Dale
+msgid "Seleccionar talla o color para ver el producto"
+msgstr "Select size or color to see the product"
+
+# @ Dale
+msgid "Carrito"
+msgstr "Shopping cart"
+
+# @ Dale
+msgid "carrito"
+msgstr "cart"
+
+
+
+# @ Dale
+msgid "Correo electrónico"
+msgstr "Email"
+
+
+
+# @ Dale
+msgid "Contraseña"
+msgstr "Password"
+
+# @ Dale
+msgid "Repetir Contraseña"
+msgstr "Repeat password"
+
+# @ Dale
+msgid "Apellido"
+msgstr "Last name"
+
+# @ Dale
+msgid "País"
+msgstr "Country"
+
+# @ Dale
+msgid "Departamento"
+msgstr "Department"
+
+# @ Dale
+msgid "Ciudad"
+msgstr "City"
+
+# @ Dale
+msgid "Dirección"
+msgstr "Address"
+
+# @ Dale
+msgid "Dirección C."
+msgstr "Address C."
+
+# @ Dale
+msgid "Tipo de Documento"
+msgstr "Document type"
+
+# @ Dale
+msgid "No Documento"
+msgstr "No Document"
+
+# @ Dale
+msgid "Fecha de nacimiento"
+msgstr "Date of birth"
+
+
+# @ Dale
+msgid "Selecciona Tipo de Documento"
+msgstr "Select Document Type"
+

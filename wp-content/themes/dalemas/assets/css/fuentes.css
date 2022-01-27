@@ -1,0 +1,26 @@
+
+/*=====================Fuentes Iniform=======================
+@font-face {
+  font-family: 'Uniform';
+  src:  url('../fonts/UniformRndExCond-Regular.woff2') format("woff2"),
+        url('../fonts/UniformRndExCond-Regular.woff') format("woff"),
+        url('../fonts/UniformRndExCond-Regular.ttf') format("truetype"),
+        url('../fonts/UniformRndExCond-Regular.eot?#iefix') format('eot');
+}*
+@font-face {
+  font-family: 'Uniform';
+  font-weight: bold;
+  src:  url('../fonts/UniformRndExCond-Bold.woff2') format("woff2"),
+        url('../fonts/UniformRndExCond-Bold.woff') format("woff"),
+        url('../fonts/UniformRndExCond-Bold.ttf') format("truetype"),
+        url('../fonts/UniformRndExCond-Bold.eot?#iefix') format('eot');
+}
+@font-face {
+  font-family: 'Uniform';
+  font-weight: 500;
+  src:  url('../fonts/UniformRndExCond-Medium.woff2') format("woff2"),
+        url('../fonts/UniformRndExCond-Medium.woff') format("woff"),
+        url('../fonts/UniformRndExCond-Medium.ttf') format("truetype"),
+        url('../fonts/UniformRndExCond-Medium.eot?#iefix') format('eot');
+  
+}*/
