@@ -5,15 +5,7 @@
 	</div>
 	<div class="h_slide" data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1500px;height:450px;overflow:hidden;">
 		<!-- inicio banners -->
-		<div class="ban_img_principal">
-			<a href=""><img src="<?=IMGURL?>slider/navidad.jpeg" alt=""></a>
-		</div>
-
-		<div class="ban_img_principal">
-			<a href=""><img src="<?=IMGURL?>slider/ban_nov.jpeg" alt=""></a>
-		</div>
-
-
+	
 		<div class="ban_img_principal">
 			<a href="https://dalemas.store/tienda/cuero/"><img src="<?=IMGURL?>slider/banner_2.jpeg" alt=""></a>
 		</div>
