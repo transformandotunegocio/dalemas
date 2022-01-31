@@ -7,6 +7,14 @@
 		<!-- inicio banners -->
 		
 		<div class="ban_img_principal">
+			<a href="https://dalemas.store/tienda/bdsm/"><img src="<?=IMGURL?>slider/SEASON-MOBILE.jpeg" alt=""></a>
+		</div>
+		
+		<div class="ban_img_principal">
+			<a href="#"><img src="<?=IMGURL?>slider/TALLER-KINKY-MOBILE.png" alt=""></a>
+		</div>
+
+		<div class="ban_img_principal">
 			<a href="https://dalemas.store/tienda/cuero/"><img src="<?=IMGURL?>slider/banner_2_m.jpeg" alt=""></a>
 		</div>
 		

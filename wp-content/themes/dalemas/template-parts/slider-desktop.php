@@ -7,6 +7,14 @@
 		<!-- inicio banners -->
 	
 		<div class="ban_img_principal">
+			<a href="https://dalemas.store/tienda/bdsm/"><img src="<?=IMGURL?>SEASON-OFF_BANNER-HOME.jpeg" alt=""></a>
+		</div>
+
+		<div class="ban_img_principal">
+			<a href="#"><img src="<?=IMGURL?>TALLER-KINKY_BANNER-HOME.jpeg" alt=""></a>
+		</div>
+
+		<div class="ban_img_principal">
 			<a href="https://dalemas.store/tienda/cuero/"><img src="<?=IMGURL?>slider/banner_2.jpeg" alt=""></a>
 		</div>
 	
