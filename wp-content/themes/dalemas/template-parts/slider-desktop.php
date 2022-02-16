@@ -7,6 +7,10 @@
 		<!-- inicio banners -->
 	
 		<div class="ban_img_principal">
+			<a href="https://dalemas.store/tienda/"><img src="<?=IMGURL?>slider/san-valentin-web.jpg" alt=""></a>
+		</div>
+
+		<div class="ban_img_principal">
 			<a href="https://dalemas.store/tienda/bdsm/"><img src="<?=IMGURL?>slider/SEASON-11.jpg" alt=""></a>
 		</div>
 
